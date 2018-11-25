@@ -23,4 +23,4 @@ git log
 
 要重返未来，用git reflog查看命令历史，以便确定要回到未来的哪个版本。
 
-
+提交后，用git diff HEAD -- filename命令可以查看工作区和版本库里面最新版本的区别
