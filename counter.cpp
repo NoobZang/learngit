@@ -1,3 +1,10 @@
+/*
+
+@date:    2018/11/25
+@author:  roadshop
+@purpose: to learn git
+
+*/
 #include <iostream> 
 #include <string>
 using namespace std;
